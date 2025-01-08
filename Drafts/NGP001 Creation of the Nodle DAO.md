@@ -47,4 +47,4 @@ The following points may be considered for future governance proposals:
 
 1. Allowing anyone to propose protocol changes
 2. Open elections for security council
-3. Decentralized Treasury management
+3. Decentralized Treasurhttps://github.com/danhendo89/governance/blob/main/README.mdy management
